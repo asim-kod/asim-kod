@@ -15,38 +15,15 @@ Before transitioning into tech, I spent **5+ years in the animation industry** w
 
 ## 💻 Core Skills & Technologies
 
-**Cloud Computing:**  
-- Amazon Web Services (AWS)
-
-**Infrastructure as Code (IaC):**  
-- Terraform  
-- Ansible  
-
-**Containerization & Orchestration:**  
-- Docker  
-- Kubernetes  
-
-**CI/CD & Automation:**  
-- Jenkins  
-- Maven  
-
-**Version Control:**  
-- Git  
-- GitHub  
-
-**Programming & Scripting:**  
-- Python  
-- Bash  
-
-**Operating Systems:**  
-- Linux (Primary), Windows  
-
-**Databases:**  
-- MySQL, MariaDB, MongoDB, DynamoDB  
-
-**DevOps Practices & Tools:**  
-- Agile methodologies  
-- Jira  
+- **Cloud Computing:**  Amazon Web Services (AWS)
+- **Infrastructure as Code (IaC):** Terraform,  Ansible
+- **Containerization & Orchestration:** Docker,   Kubernetes 
+- **CI/CD & Automation:** Jenkins,   Maven
+- **Version Control:**  Git, GitHub
+- **Programming & Scripting:** Python,  Bash
+- **Operating Systems:**  Linux (Primary), Windows
+- **Databases:**  MySQL, MariaDB, MongoDB, DynamoDB  
+- **DevOps Practices & Tools:**  Agile methodologies, Jira
 
 ---
 
@@ -79,17 +56,6 @@ Before transitioning into tech, I spent **5+ years in the animation industry** w
 - Managed application configuration via ConfigMaps and secured sensitive data using Kubernetes Secrets.  
 - Established internal communication using Kubernetes Services without exposing backend workloads publicly.  
 - Validated stability through controlled pod recreation and rolling updates, improving operational reliability.
-
----
-
-## 🎯 Core Focus Areas
-
-- DevOps & Cloud Engineer fundamentals  
-- AWS cloud infrastructure & automation  
-- CI/CD pipeline design and optimization  
-- Terraform Infrastructure as Code  
-- Docker & Kubernetes orchestration  
-- Linux systems and scripting  
 
 ---
 
