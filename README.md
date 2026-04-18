@@ -9,21 +9,18 @@ DevOps & Cloud Engineer with hands-on experience in **AWS cloud infrastructure, 
 
 I have worked on designing and deploying **scalable, secure, and production-ready cloud infrastructure on AWS**, focusing on automation, reliability, and repeatable deployments. My experience includes building **multi-tier architectures**, automating infrastructure provisioning, and implementing end-to-end **CI/CD pipelines** with minimal manual intervention.
 
-Before transitioning into tech, I spent **5+ years in the animation industry** working with complex production pipelines, cloud render farms, and cross-team collaboration. This background strengthened my **problem-solving mindset, system thinking, and ability to manage real production workflows**, which directly translates into DevOps and cloud engineering practices.
+Before transitioning into tech, I've spent **5+ years in the animation industry** working with complex production pipelines, cloud render farms, and cross-team collaboration. This background strengthened my **problem-solving mindset, system thinking, and ability to manage real production workflows**, which directly translates into DevOps and cloud engineering practices.
 
 ---
 
 ## 💻 Core Skills & Technologies
 
-- **Cloud Computing:**  Amazon Web Services (AWS)
-- **Infrastructure as Code (IaC):** Terraform,  Ansible
+- **Cloud & Infrastructure:**  AWS (VPC, EC2, S3, IAM, RDS), Terraform, Ansible
 - **Containerization & Orchestration:** Docker,   Kubernetes 
 - **CI/CD & Automation:** Jenkins,   Maven
-- **Version Control:**  Git, GitHub
-- **Programming & Scripting:** Python,  Bash
-- **Operating Systems:**  Linux (Primary), Windows
+- **Version Control & Tools:**  Git, GitHub,Jira
+- **Scripting & OS:** Linux (RHEL/Ubuntu), Bash, Python
 - **Databases:**  MySQL, MariaDB, MongoDB, DynamoDB  
-- **DevOps Practices & Tools:**  Agile methodologies, Jira
 
 ---
 
@@ -52,7 +49,7 @@ Before transitioning into tech, I spent **5+ years in the animation industry** w
 ### 🔹 Kubernetes Deployment for MongoDB & Mongo-Express (2025) [Repo](https://github.com/asim-kod/kubernetes-project)
 **Tech Stack:** Kubernetes, Persistent Volumes, ConfigMaps, Secrets  
 
-- **Deployed a stateful** MongoDB setup using **PersistentVolumes** and **PersistentVolumeClaims**, ensuring **100%** data retention across pod restarts.  
+- **Deployed a MongoDB** setup using **PersistentVolumes** and **PersistentVolumeClaims**, ensuring **100%** data retention across pod restarts.  
 - **Managed application** configuration via **ConfigMaps** and secured sensitive data using **Kubernetes Secrets**.  
 - **Established** internal communication using **Kubernetes Services** without exposing backend workloads publicly.  
 - **Validated stability** through controlled pod recreation and rolling updates, improving operational reliability.
