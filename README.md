@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Linkedin-Banner_InUse.png" />
+</p>
+
 # Hi, I'm Asim Kod 👋  
 ### DevOps & Cloud Engineer | AWS | Terraform (IaC) | CI/CD | Kubernetes | Cloud Automation | Background in 3D Production Pipelines
 
