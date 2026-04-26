@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Asim Kod 👋  
-### DevOps & Cloud Engineer | AWS | Terraform (IaC) | CI/CD | Kubernetes | Cloud Automation | Background in 3D Production Pipelines
+### DevOps & Cloud Engineer | 1 x AWS | Terraform (IaC) | CI/CD | Kubernetes | Cloud Automation | Ex-3D Artist
 
 ---
 
