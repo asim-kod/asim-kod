@@ -3,28 +3,28 @@
 </p>
 
 # Hi, I'm Asim Kod 👋  
-### DevOps & Cloud Engineer | 1 x AWS | Terraform (IaC) | CI/CD | Kubernetes | Cloud Automation | Ex-3D Artist
+### Cloud & DevOps Engineer | 1 x AWS | Terraform (IaC) | CI/CD | Kubernetes | Cloud Automation | Ex-Technical 3D Artist
 
 ---
 
 ## 🚀 About Me
 
-DevOps & Cloud Engineer with hands-on experience in **AWS cloud infrastructure, CI/CD pipelines, Terraform Infrastructure as Code, Kubernetes, and automation**, gained through real-world projects and an intensive 6-month DevOps training program.
+I am a Cloud & DevOps Engineer focused on building automated, scalable, and production-ready cloud environments. With practical experience across AWS infrastructure, Terraform (IaC), and Jenkins CI/CD pipelines, I bridge the gap between robust system operations and seamless application delivery. My core expertise lies in Linux administration, containerized deployments with Docker & Kubernetes (EKS), and managing modern data workflows.
 
-I have worked on designing and deploying **scalable, secure, and production-ready cloud infrastructure on AWS**, focusing on automation, reliability, and repeatable deployments. My experience includes building **multi-tier architectures**, automating infrastructure provisioning, and implementing end-to-end **CI/CD pipelines** with minimal manual intervention.
-
-Before transitioning into tech, I've spent **5+ years in the animation industry** working with complex production pipelines, cloud render farms, and cross-team collaboration. This background strengthened my **problem-solving mindset, system thinking, and ability to manage real production workflows**, which directly translates into DevOps and cloud engineering practices.
+My professional foundation includes 6 years as a Technical 3D Artist and Team Lead, where I specialized in optimizing complex digital pipelines and troubleshooting severe technical bottlenecks under tight production deadlines. This extensive background in managing large-scale asset infrastructure has naturally shaped my logical mindset, making me highly efficient at root-cause analysis, system stability, and infrastructure reliability.
 
 ---
 
 ## 💻 Core Skills & Technologies
 
-- **Cloud & Infrastructure:**  AWS (VPC, EC2, S3, IAM, RDS), Terraform, Ansible
-- **Containerization & Orchestration:** Docker,   Kubernetes 
-- **CI/CD & Automation:** Jenkins,   Maven
+- **Cloud Provider:** AWS (VPC, EC2, EBS, S3, IAM, RDS, CloudWatch)
+- **Infrastructure (IaC):**  Terraform, Ansible
+- **Containers & Orchestration:** Docker, Kubernetes (AWS EKS) 
+- **CI/CD & Automation:** End-to-end Jenkins pipelines, Maven automation
+- **Operating System:** Linux (RedHat/Debian) administration, Windows
+- **Databases:** MySQL, MariaDB, MongoDB, DynamoDB
 - **Version Control & Tools:**  Git, GitHub,Jira
-- **Scripting & OS:** Linux (RHEL/Ubuntu), Bash, Python
-- **Databases:**  MySQL, MariaDB, MongoDB, DynamoDB  
+- **Scripting:** Bash, Python 
 
 ---
 
