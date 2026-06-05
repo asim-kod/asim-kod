@@ -30,7 +30,7 @@ My professional foundation includes 6 years as a Technical 3D Artist and Team Le
 
 ## 📌 Featured Projects
 
-### 🔹 Multi-Tier AWS Infrastructure Using Terraform (2025) [Repo](https://github.com/asim-kod/multi-tier-terraform-project)
+### 🔹 Multi-Tier AWS Infrastructure Using Terraform ([Repo](https://github.com/asim-kod/multi-tier-terraform-project))
 **Tech Stack:** AWS, Terraform, VPC, EC2, ALB, Auto Scaling, RDS  
 
 - **Designed and deployed** a modular multi-tier AWS environment using Terraform, reducing manual infrastructure setup by **~70%**.  
@@ -40,7 +40,7 @@ My professional foundation includes 6 years as a Technical 3D Artist and Team Le
 
 ---
 
-### 🔹 CI/CD Pipeline for Java Application Deployment (2025) [Repo](https://github.com/asim-kod/ci-cd-pipeline-project)
+### 🔹 CI/CD Pipeline for Java Application Deployment ([Repo](https://github.com/asim-kod/ci-cd-pipeline-project))
 **Tech Stack:** Jenkins, Maven, Ansible, Docker, Kubernetes, GitHub  
 
 - **Implemented an end-to-end CI/CD pipeline** automating build, artifact generation, containerization, and deployment.  
@@ -50,7 +50,7 @@ My professional foundation includes 6 years as a Technical 3D Artist and Team Le
 
 ---
 
-### 🔹 Kubernetes Deployment for MongoDB & Mongo-Express (2025) [Repo](https://github.com/asim-kod/kubernetes-project)
+### 🔹 Kubernetes Deployment for MongoDB & Mongo-Express ([Repo](https://github.com/asim-kod/kubernetes-project))
 **Tech Stack:** Kubernetes, Persistent Volumes, ConfigMaps, Secrets  
 
 - **Deployed a MongoDB** setup using **PersistentVolumes** and **PersistentVolumeClaims**, ensuring **100%** data retention across pod restarts.  
