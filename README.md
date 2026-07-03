@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Linkedin-Banner_InUse.png" />
+  <img src="./Linkedin-Banner_InUse-01.png" />
 </p>
 
 # Hi, I'm Asim Kod 👋  
