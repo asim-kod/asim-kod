@@ -3,7 +3,7 @@
 </p>
 
 # Hi, I'm Asim Kod 👋  
-### Cloud & DevOps Engineer | 1 x AWS | Terraform (IaC) | CI/CD | Kubernetes | Cloud Automation | Ex-Technical 3D Artist
+### AWS Certified Cloud & DevOps Engineer | 1 x AWS | Terraform (IaC) | CI/CD | Kubernetes | Cloud Automation | Ex-Technical 3D Artist
 
 ---
 
@@ -17,14 +17,15 @@ My professional foundation includes 6 years as a Technical 3D Artist and Team Le
 
 ## 💻 Core Skills & Technologies
 
-- **Cloud Provider:** AWS (VPC, EC2, EBS, S3, IAM, RDS, CloudWatch)
-- **Infrastructure (IaC):**  Terraform, Ansible
+- **Cloud Platform:** AWS — Compute (EC2, Lambda), Storage (S3, EBS, EFS), Networking (VPC, CloudFront, Route53), Database (RDS), Security (IAM)
+- **Infrastructure as Code / Automation:** CloudFormation, Terraform, Ansible
 - **Containers & Orchestration:** Docker, Kubernetes (AWS EKS) 
-- **CI/CD & Automation:** End-to-end Jenkins pipelines, Maven automation
-- **Operating System:** Linux (RedHat/Debian) administration, Windows
-- **Databases:** MySQL, MariaDB, MongoDB, DynamoDB
+- **CI/CD:** Jenkins, Maven
+- **Monitoring:** CloudWatch, Prometheus, Grafana
+- **OS & Scripting:** Linux (RedHat/Debian) administration, Windows
+- **Databases:** MySQL, MariaDB, PostgreSQL
 - **Version Control & Tools:**  Git, GitHub,Jira
-- **Scripting:** Bash, Python 
+- **Core Competencies:** Leadership & Mentoring, Communication, Team Collaboration, Problem-Solving & Root-Cause Analysis, Time Management
 
 ---
 
@@ -34,7 +35,7 @@ My professional foundation includes 6 years as a Technical 3D Artist and Team Le
 **Tech Stack:** AWS, Terraform, VPC, EC2, ALB, Auto Scaling, RDS  
 
 - **Designed and deployed** a modular multi-tier AWS environment using Terraform, reducing manual infrastructure setup by **~70%**.  
-- **Implemented secure networking** with custom VPC, public/private subnets, NAT, Internet Gateway, and layered security groups.  
+- **Implemented secure networking** with a custom VPC, public/private subnets, NAT, Internet Gateway, and layered security groups.  
 - **Built a highly available and scalable architecture** using ALB, Auto Scaling Groups, and private EC2 instances.  
 - **Automated database** initialization in RDS using Terraform provisioners, eliminating manual DB setup tasks.
 
