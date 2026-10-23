@@ -9,21 +9,24 @@
 
 ## 🚀 About Me
 
-I am a Cloud & DevOps Engineer focused on building automated, scalable, and production-ready cloud environments. With practical experience across AWS infrastructure, Terraform (IaC), and Jenkins CI/CD pipelines, I bridge the gap between robust system operations and seamless application delivery. My core expertise lies in Linux administration, containerized deployments with Docker & Kubernetes (EKS), and managing modern data workflows.
+I am an AWS Certified Cloud & DevOps Engineer focused on building automated, scalable, and production-ready cloud environments. With hands-on experience in AWS infrastructure, Terraform (IaC), and Jenkins CI/CD pipelines, I bridge robust system operations and seamless application delivery. My core expertise lies in Linux administration, containerized deployments with Docker & Kubernetes (EKS), and managing modern data workflows.
 
-My professional foundation includes 6 years as a Technical 3D Artist and Team Lead, where I specialized in optimizing complex digital pipelines and troubleshooting severe technical bottlenecks under tight production deadlines. This extensive background in managing large-scale asset infrastructure has naturally shaped my logical mindset, making me highly efficient at root-cause analysis, system stability, and infrastructure reliability.
+My professional foundation includes 6 years as a Technical 3D Artist and Team Lead, during which I specialized in optimizing complex digital pipelines and troubleshooting severe technical bottlenecks under tight production deadlines. This extensive background in managing large-scale asset infrastructure has shaped my logical mindset, making me highly efficient at root-cause analysis and at ensuring system stability and infrastructure reliability.
 
 ---
 
 ## 💻 Core Skills & Technologies
 
 - **Cloud Platform:** AWS — Compute (EC2, Lambda), Storage (S3, EBS, EFS), Networking (VPC, CloudFront, Route53), Database (RDS), Security (IAM)
+- **Front-End:** HTML 5, CSS 3, JavaScript
+- **Web Servers:** Apache Web Server, Nginx
+- **Scripting:** Bash, Python, YAML, HashiCorp
 - **Infrastructure as Code / Automation:** CloudFormation, Terraform, Ansible
 - **Containers & Orchestration:** Docker, Kubernetes (AWS EKS) 
 - **CI/CD:** Jenkins, Maven
 - **Monitoring:** CloudWatch, Prometheus, Grafana
-- **OS & Scripting:** Linux (RedHat/Debian) administration, Windows
-- **Databases:** MySQL, MariaDB, PostgreSQL
+- **OS:** Linux (RHEL/Debian) administration, Windows
+- **Databases:** MySQL, MongoDB
 - **Version Control & Tools:**  Git, GitHub,Jira
 - **Core Competencies:** Leadership & Mentoring, Communication, Team Collaboration, Problem-Solving & Root-Cause Analysis, Time Management
 
